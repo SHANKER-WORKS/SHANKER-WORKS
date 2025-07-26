@@ -1,16 +1,6 @@
 <h1 align="center">Hi 👋, I'm SANAPALA BHEEM SANKAR</h1>
 <h3 align="center">🚀 A passionate Data Science and AI developer from India</h3>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=shanker-works&label=Profile%20views&color=0e75b6&style=flat" alt="shanker-works" /> 
-</p>
-
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shanker-works&theme=dracula&margin-w=10&margin-h=10&column=7" alt="shanker-works" />
-  </a> 
-</p>
-
 ---
 
 ### 🔭 I’m currently working on  
