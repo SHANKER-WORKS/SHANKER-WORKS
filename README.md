@@ -22,7 +22,7 @@
 Python, Machine Learning, Data Analysis, Streamlit, Flask, AWS, Open Source
 
 ### 📫 How to reach me  
-✉️ bheemsankarsanapala@gmail.com  
+✉️ bheemshankersanapala2003@gmail.com 
 🔗 [LinkedIn](https://www.linkedin.com/in/sanapala-bheem-sankar/)
 
 ### 📄 Know about my experiences  
