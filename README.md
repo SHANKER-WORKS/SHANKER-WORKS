@@ -26,7 +26,7 @@ Python, Machine Learning, Data Analysis, Streamlit, Flask, AWS, Open Source
 🔗 [LinkedIn](https://www.linkedin.com/in/sanapala-bheem-sankar/)
 
 ### 📄 Know about my experiences  
-📄 [Resume/CV](https://drive.google.com/file/d/1XstbCIh4fQXu_iHn4-MWfbMoqAo29c35/view?usp=drive_link)
+📄 [Resume/CV](https://drive.google.com/file/d/19glDaqACLFl8wWemBxAmnFcFkm9W5m_q/view?usp=drive_link)
 
 ### ⚡ Fun fact  
 I believe every project idea is crazy until you build it! And yes, I make the best coffee ☕
